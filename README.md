@@ -6,7 +6,7 @@ Name: beets
 
 URL: https://github.com/beetbox/beets.git
 
-We used lizard in VScode to count the lines of code. The number of lines was: 113408(In Python 48992 lines because 43% of the project is Python).
+We used lizard in VScode to count the lines of code. The number of lines was: 113408 (In Python 48992 lines because 43% of the project is Python).
 
 Programming language: Python
 
