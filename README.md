@@ -4,7 +4,7 @@
 
 Name: pygame
 
-URL: [https://github.com/beetbox/beets.git](https://github.com/pygame/pygame)
+URL: https://github.com/pygame/pygame
 
 We used lizard in the terminal to count the number of lines of code (NLOC). NLOC: 113408
 From these NLOC, ~48992 were in Python as 43% of this project consists of Python.
