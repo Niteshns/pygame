@@ -2,11 +2,12 @@
 
 ## Project chosen
 
-Name: beets
+Name: pygame
 
-URL: https://github.com/beetbox/beets.git
+URL: [https://github.com/beetbox/beets.git](https://github.com/pygame/pygame)
 
-We used lizard in VScode to count the lines of code. The number of lines was: 113408 (In Python 48992 lines because 43% of the project is Python).
+We used lizard in the terminal to count the number of lines of code (NLOC). NLOC: 113408
+From these NLOC, ~48992 were in Python as 43% of this project consists of Python.
 
 Programming language: Python
 
@@ -16,10 +17,10 @@ Programming language: Python
 
 We used the tool Coverage.py.
 Steps we took to do the test:
-1. Enter the repository path in vscode.
-2. Inside the repository, we went to path "/test".
-3. We then executed the coverage tool on the inbuild unit tester with the command: "coverage run .".
-4. After the testing, we ran the command: "coverage report" to get the coverage test results.
+1. Enter the repository path in terminal.
+2. Inside the repository directory, we went to path "/test" by using `cd test`.
+3. Execute the coverage tool on the inbuild unit tester with the command: `coverage run .`.
+4. After execution, the command `coverage report` is ran to get the coverage test results which will be shown below.
 
 ## Screenshot of coverage results:
 
