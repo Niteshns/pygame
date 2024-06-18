@@ -33,7 +33,7 @@ Steps we took to do the test:
 
 <The following is supposed to be repeated for each group member>
 
-Group Nitesh Shahatoe
+Group member: Nitesh Shahatoe
 
 Function 1: surfarray_tags.py
 
@@ -54,19 +54,21 @@ Link to instrumentation: https://github.com/pygame/pygame/commit/7ba08bded73317c
 
 <The following is supposed to be repeated for each group member>
 
-<Group member name>
+Group member: Nitesh Shahatoe
 
-<Test 1>
+Test surfarray_tags.py
 
-<Show a patch (diff) or a link to a commit made in your forked repository that shows the new/enhanced test>
+Link to the new/enhanced test: https://github.com/pygame/pygame/commit/9adcfca75f797a6c74a0c9a315b5220d75a9daee
 
 <Provide a screenshot of the old coverage results (the same as you already showed above)>
 
 <Provide a screenshot of the new coverage results>
 
 <State the coverage improvement with a number and elaborate on why the coverage is improved>
+The coverage was previously 58%. The enhanced test has a coverage of 83%. The coverage is improved because I added two advanced tests to test whether or not the imported libraries worked. 
+These newly added tests did not branch out much. There is only a small branch in the second test for the exception handling. This improved the branch coverage significantly. 
 
-<Test 2>
+  <Test 2>
 
 <Provide the same kind of information provided for Test 1>
 
