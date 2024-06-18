@@ -41,8 +41,8 @@ Link to instrumentation: https://github.com/pygame/pygame/commit/7ba08bded73317c
 
 <Show a patch (diff) or a link to a commit made in your forked repository that shows the instrumented code to gather coverage measurements>
 
-<Provide a screenshot of the coverage results output by the instrumentation>
-
+<The coverage results output by the instrumentation>
+(https://github.com/Niteshns/pygame/blob/main/screenshot/screenshot_instrumentation_coverageresult_surfarray_tags.py.png).
 <Function 2 name>
 
 <Provide the same kind of information provided for Function 1>
