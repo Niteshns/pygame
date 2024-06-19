@@ -69,7 +69,7 @@ Link to the new/enhanced test: https://github.com/pygame/pygame/commit/9adcfca75
 
 
 <State the coverage improvement with a number and elaborate on why the coverage is improved>
-The coverage was previously 58%. The enhanced test has a coverage of 83%. The coverage is improved because I added two advanced tests to test whether or not the imported libraries worked. 
+The tests show some overhead tests. In our case, we will skip the package tests and will only look at the surfarray_tags.py. The coverage was previously 58%. The enhanced test has a coverage of 83%. The coverage is improved because I added two advanced tests to test whether or not the imported libraries worked. 
 These newly added tests did not branch out much. There is only a small branch in the second test for the exception handling. This improved the branch coverage significantly. 
 
 
