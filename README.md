@@ -63,6 +63,9 @@ Link to the new/enhanced test: https://github.com/pygame/pygame/commit/9adcfca75
 <Provide a screenshot of the old coverage results (the same as you already showed above)>
 
 <Provide a screenshot of the new coverage results>
+## Screenshot of coverage improvement
+https://github.com/Niteshns/pygame/blob/main/screenshot/surfarray_tags_coverage_test.png
+
 
 <State the coverage improvement with a number and elaborate on why the coverage is improved>
 The coverage was previously 58%. The enhanced test has a coverage of 83%. The coverage is improved because I added two advanced tests to test whether or not the imported libraries worked. 
