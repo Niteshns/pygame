@@ -60,10 +60,11 @@ Test surfarray_tags.py
 
 Link to the new/enhanced test: https://github.com/pygame/pygame/commit/9adcfca75f797a6c74a0c9a315b5220d75a9daee
 
-<Provide a screenshot of the old coverage results (the same as you already showed above)>
+## Screenshot before enhanced coverage improvement
+![Screen before enhanced coverage](https://github.com/Niteshns/pygame/blob/main/screenshot/surfarray_tags_coverage_test_before.png)
 
 
-## Screenshot of coverage improvement
+## Screenshot of enhanced coverage improvement
 ![Screenshot enhanced coverage](https://github.com/Niteshns/pygame/blob/main/screenshot/surfarray_tags_coverage_test.png)
 
 
@@ -71,7 +72,8 @@ Link to the new/enhanced test: https://github.com/pygame/pygame/commit/9adcfca75
 The coverage was previously 58%. The enhanced test has a coverage of 83%. The coverage is improved because I added two advanced tests to test whether or not the imported libraries worked. 
 These newly added tests did not branch out much. There is only a small branch in the second test for the exception handling. This improved the branch coverage significantly. 
 
-  <Test 2>
+
+<Test 2>
 
 <Provide the same kind of information provided for Test 1>
 
