@@ -62,7 +62,7 @@ Link to the new/enhanced test: https://github.com/pygame/pygame/commit/9adcfca75
 
 <Provide a screenshot of the old coverage results (the same as you already showed above)>
 
-<Provide a screenshot of the new coverage results>
+
 ## Screenshot of coverage improvement
 https://github.com/Niteshns/pygame/blob/main/screenshot/surfarray_tags_coverage_test.png
 
